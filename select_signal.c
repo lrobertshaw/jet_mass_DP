@@ -70,7 +70,7 @@ void select_signal(std::string path, const int genmass, const int genpdg) {
     // -----------------------------
     std::string filename = path.substr(path.find_last_of("/\\") + 1);
     filename = filename.substr(0, filename.find(".root"));
-    TString outname = Form("./signal_samples/%s_signal.root", filename.c_str());
+    TString outname = Form("./signal/%s_signal.root", filename.c_str());
     TFile *outfile = new TFile(outname, "RECREATE");
     TTree *newtree = tree->CloneTree(0);
 
