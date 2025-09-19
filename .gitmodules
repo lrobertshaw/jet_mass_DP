@@ -1,0 +1,8 @@
+[submodule "CMSSW_15_1_0_pre5/src"]
+	path = CMSSW_15_1_0_pre5/src
+	url = git@github.com:lrobertshaw/cmssw.git
+	branch = from-CMSSW_15_1_0_pre5
+[submodule "Phase2-L1MenuTools"]
+	path = Phase2-L1MenuTools
+	url = git@github.com:lrobertshaw/Phase2-L1MenuTools.git
+	branch = dp_note

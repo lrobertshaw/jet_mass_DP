@@ -1,0 +1,30 @@
+# TT:
+#   path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/output_Phase2_L1T_signal.root
+#   path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/TT_boosted_RateTable_V49nano_AR25_masks.parquet
+MX350_LH50:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MX-350_MH-50_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/MX_350_LH_50_qq_RateTable_V49nano_AR25_masks.parquet
+LH20:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-20_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_20_qq_RateTable_V49nano_AR25_masks.parquet
+LH30:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-30_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_30_qq_RateTable_V49nano_AR25_masks.parquet
+LH40:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-40_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_40_qq_RateTable_V49nano_AR25_masks.parquet
+LH50:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-50_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_50_qq_RateTable_V49nano_AR25_masks.parquet
+LH60:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-60_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_60_qq_RateTable_V49nano_AR25_masks.parquet
+LH70:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-70_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_70_qq_RateTable_V49nano_AR25_masks.parquet
+LH80:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-80_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_80_qq_RateTable_V49nano_AR25_masks.parquet
+LH90:
+  path_data: /eos/user/l/lroberts/Phase2-L1MenuTools/signal_samples/XtoHH_MH-90_qq_PU200_signal.root
+  path_decisions: /eos/user/l/lroberts/Phase2-L1MenuTools/outputs/V49nano_AR25/rate_tables/LH_90_qq_RateTable_V49nano_AR25_masks.parquet
