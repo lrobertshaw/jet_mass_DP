@@ -6,3 +6,6 @@
 	path = Phase2-L1MenuTools
 	url = git@github.com:lrobertshaw/Phase2-L1MenuTools.git
 	branch = dp_note
+[submodule "overleaf"]
+	path = overleaf
+	url = git@github.com:lrobertshaw/jet_mass_DPN_overleaf.git
